@@ -1,6 +1,6 @@
 
 ### Trunk Based Development
-* https://trunkbaseddevelopment.com
+* [https://trunkbaseddevelopment.com](https://trunkbaseddevelopment.com)
 * https://jimmybogard.com/trunk-based-development-or-pull-requests-why-not-both/
 * https://team-coder.com/code-reviews-in-trunk-based-development/
 * https://team-coder.com/from-git-flow-to-trunk-based-development/
