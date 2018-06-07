@@ -35,8 +35,8 @@
 
 ### Other
 * [https://www.atlassian.com/git/tutorials/comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* http://martinfowler.com/bliki/FeatureBranch.html
+* [http://martinfowler.com/bliki/FeatureBranch.html](http://martinfowler.com/bliki/FeatureBranch.html)
 * [https://datasift.github.io/gitflow/IntroducingGitFlow.html](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-* http://nvie.com/posts/a-successful-git-branching-model/
+* [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
 * Github Flow: [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
 * [https://www.plasticscm.com/features/semantic-version-control.html](https://www.plasticscm.com/features/semantic-version-control.html)
