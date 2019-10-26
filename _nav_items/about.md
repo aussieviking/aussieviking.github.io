@@ -8,7 +8,7 @@ I'm a software developer, originally from Oslo, Norway but now based in Melbourn
 
 Over a 15+ year professional career I have had a chance to work with a large number of languages, frameworks and systems but I naturally gravitate towards the Microsoft ecosystem using Visual Studio and VSCode to build applications using C# on .NET. I have extensive experience building .NET applications (mostly web) often on top of the [Sitecore CMS][sitecore]
 
-Currently I'm working on a Microservices architecture which consists of a number of services deployed on [PCF][https://pivotal.io/platform] using .NET core. Consuming these services we have a React/Typescript web client and native iOS and Android clients built in Xamarin.
+Currently I'm working on a Microservices architecture which consists of a number of services deployed on [PCF](https://pivotal.io/platform) using .NET core. Consuming these services we have a React/Typescript web client and native iOS and Android clients built in Xamarin.
 
 This blog is hosted on github pages and is powered by [jekyll] using the standard [minima] theme.
 
