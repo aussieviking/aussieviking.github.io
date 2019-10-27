@@ -3,6 +3,7 @@
 
 @import "minima";
 
+// Add dark-mode support
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #444;
@@ -19,5 +20,12 @@
     }
     img {
         filter: grayscale(30%);
+    }
+
+    // reverse text color for code blocks as
+    // they are displayed on a light background
+    .highlight,
+    .highlighter-rouge {
+        color: #111;
     }
 }
